@@ -1,0 +1,16 @@
+.titleDiv
+{
+    width: 100%;
+    height: 120px;
+    background-color:#00ace12d;
+    padding: 25px 30px 25px 30px;
+    border-radius: 15px;
+    color: #000000;
+}
+.titleDiv h1{
+    padding-bottom: 0px;
+}
+.titleDiv h6 span
+{
+    color:rgb(43, 0, 255);
+}
